@@ -62,3 +62,23 @@ a:hover{
     color: #021c33;
     opacity: 0.5;
 }
+
+button{
+    padding: 8px;
+    border: none;
+    background: #4facfe;
+    color: #021c33;
+    border-radius: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    cursor: pointer;
+    width: 70px;
+    margin-left: 34%;
+    
+    
+}
+button:hover{
+    background: #021c33;
+    color: white;
+
+}
